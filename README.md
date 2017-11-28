@@ -1,6 +1,6 @@
 # BattleSimulator
 Lord of the Rings Battle Simulator
-Created as a project for computer science at Mount Royal University for Paul Pospicil. Code written by me is preceeded by comments describing the purpose of the function
+Created as a project for computer science at Mount Royal University for Paul Pospicil. Code written by me is preceeded by comments describing the purpose of the function, for the most part. 
 All .h and makefile are written by me.
 
 To use:
